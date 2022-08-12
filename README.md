@@ -6,7 +6,7 @@ I may never do any of this, it is just a list.
 Feel free to create an issue if you want me to add a feature to the list.
 
 
-## VESC DONE:
+## DONE:
 - Configureable Dead Zone
 - Configureable Min current
 - Clear all compiler warnings
@@ -81,7 +81,7 @@ Feel free to create an issue if you want me to add a feature to the list.
 - Cleanup initialization loop timing
 - Add loop timing correction (Track average error)
 
-## In beta
+## Done In beta
 - Cascading PID
 - 400khz i2c speed
 - Fix IMU read loop timing
