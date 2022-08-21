@@ -99,6 +99,7 @@ Feel free to create an issue if you want me to add a feature to the list.
 - lsm6ds3tr-c filter configuration
 - Stop motor config wizard from setting voltage limits when EUC is selected.
 - Maintain buzzer lisp script somewhere visible, perhaps add LEDs as well
+- Temperature Tiltback
 
 ## TODO Eventually
 - Time scaled PID maths
