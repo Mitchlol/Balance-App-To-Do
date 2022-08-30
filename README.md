@@ -92,7 +92,6 @@ Feel free to create an issue if you want me to add a feature to the list.
 - Fix directionality of turntilt
 
 ## TODO For sure
-- fully disable duty fault when set to 1
 - I Term Current Limit
 - Remove Unused D term filters
 - Clamp PID output to max currents
