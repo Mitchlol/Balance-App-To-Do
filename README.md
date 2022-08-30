@@ -88,10 +88,11 @@ Feel free to create an issue if you want me to add a feature to the list.
 - Add support for imu filters on bmi160
 - Set lsm6ds3 & tr-c ODR correctly
 
+## Merge request placed
+- Fix directionality of turntilt
+
 ## TODO For sure
 - fully disable duty fault when set to 1
-- Debug speed based tiltback
-- Debug directionality of turntilt
 - I Term Current Limit
 - Remove Unused D term filters
 - Clamp PID output to max currents
