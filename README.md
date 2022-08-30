@@ -90,11 +90,12 @@ Feel free to create an issue if you want me to add a feature to the list.
 
 ## Merge request placed
 - Fix directionality of turntilt
+- Clamp PID output to max currents
+
 
 ## TODO For sure
 - I Term Current Limit
 - Remove Unused D term filters
-- Clamp PID output to max currents
 - Configuration wizard
 - lsm6ds3tr-c filter configuration
 - Stop motor config wizard from setting voltage limits when EUC is selected.
