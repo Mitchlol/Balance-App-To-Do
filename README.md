@@ -87,20 +87,19 @@ Feel free to create an issue if you want me to add a feature to the list.
 - Fix IMU read loop timing
 - Add support for imu filters on bmi160
 - Set lsm6ds3 & tr-c ODR correctly
-
-## Merge request placed
 - Fix directionality of turntilt
 - Clamp PID output to max currents
 
+## Merge request placed
 
 ## TODO For sure
 - I Term Current Limit
 - Remove Unused D term filters
-- Configuration wizard
 - lsm6ds3tr-c filter configuration
+- Temperature Tiltback
+- Configuration wizard
 - Stop motor config wizard from setting voltage limits when EUC is selected.
 - Maintain buzzer lisp script somewhere visible, perhaps add LEDs as well
-- Temperature Tiltback
 
 ## TODO Eventually
 - Time scaled PID maths
