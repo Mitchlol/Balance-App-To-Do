@@ -97,6 +97,7 @@ Feel free to create an issue if you want me to add a feature to the list.
 ## TODO For sure
 - lsm6ds3tr-c filter configuration
 - Temperature Tiltback
+- Text display of imu values in desktop tool
 - Configuration wizard
 - Stop motor config wizard from setting voltage limits when EUC is selected.
 - Maintain buzzer lisp script somewhere visible, perhaps add LEDs as well
