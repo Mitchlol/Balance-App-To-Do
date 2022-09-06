@@ -80,6 +80,7 @@ Feel free to create an issue if you want me to add a feature to the list.
 - Add brake current Timeout
 - Cleanup initialization loop timing
 - Add loop timing correction (Track average error)
+- Graph toggleable data
 
 ## Done In beta
 - Cascading PID
@@ -98,12 +99,12 @@ Feel free to create an issue if you want me to add a feature to the list.
 - lsm6ds3tr-c filter configuration
 - Temperature Tiltback
 - Text display of imu values in desktop tool
+- Time scaled PID maths
 - Configuration wizard
 - Stop motor config wizard from setting voltage limits when EUC is selected.
 - Maintain buzzer lisp script somewhere visible, perhaps add LEDs as well
 
 ## TODO Eventually
-- Time scaled PID maths
 - Split faults from run states?
 - Graph D term frequecy spectrum
 - Cleanup centering logic
@@ -117,8 +118,6 @@ Feel free to create an issue if you want me to add a feature to the list.
 
 ## MAYDO:
 - Exponential P?
-- Graph toggleable data
-- Time based PID maths
 - PPM & Balance app
 
 ## NODO:
