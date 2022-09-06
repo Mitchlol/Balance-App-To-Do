@@ -91,10 +91,10 @@ Feel free to create an issue if you want me to add a feature to the list.
 - Clamp PID output to max currents
 
 ## Merge request placed
-
-## TODO For sure
 - I Term Current Limit
 - Remove Unused D term filters
+
+## TODO For sure
 - lsm6ds3tr-c filter configuration
 - Temperature Tiltback
 - Configuration wizard
