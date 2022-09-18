@@ -90,16 +90,17 @@ Feel free to create an issue if you want me to add a feature to the list.
 - Set lsm6ds3 & tr-c ODR correctly
 - Fix directionality of turntilt
 - Clamp PID output to max currents
-
-## Merge request placed
 - I Term Current Limit
 - Remove Unused D term filters
+
+## Merge request placed
 
 ## TODO For sure
 - lsm6ds3tr-c filter configuration
 - Temperature Tiltback
 - Text display of imu values in desktop tool
 - Time scaled PID maths
+- Mini QML utilities
 - Configuration wizard
 - Stop motor config wizard from setting voltage limits when EUC is selected.
 - Maintain buzzer lisp script somewhere visible, perhaps add LEDs as well
