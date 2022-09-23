@@ -94,11 +94,11 @@ Feel free to create an issue if you want me to add a feature to the list.
 - Remove Unused D term filters
 
 ## Merge request placed
+- Text display of imu values in desktop tool
 
 ## TODO For sure
 - lsm6ds3tr-c filter configuration
 - Temperature Tiltback
-- Text display of imu values in desktop tool
 - Time scaled PID maths
 - Mini QML utilities
 - Configuration wizard
