@@ -92,13 +92,15 @@ Feel free to create an issue if you want me to add a feature to the list.
 - Clamp PID output to max currents
 - I Term Current Limit
 - Remove Unused D term filters
+- Text display of imu values in desktop tool
 
 ## Merge request placed
-- Text display of imu values in desktop tool
 
 ## TODO For sure
 - lsm6ds3tr-c filter configuration
+- switch to vescpkg
 - Temperature Tiltback
+- Improve dual switch startup for spotty switches
 - Time scaled PID maths
 - Mini QML utilities
 - Configuration wizard
