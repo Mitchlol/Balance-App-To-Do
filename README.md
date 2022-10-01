@@ -93,14 +93,15 @@ Feel free to create an issue if you want me to add a feature to the list.
 - I Term Current Limit
 - Remove Unused D term filters
 - Text display of imu values in desktop tool
+- Accel low pass filter (Fixes nose hunting, but not for everyone? need more feedback)
 
 ## Merge request placed
 
 ## TODO For sure
-- lsm6ds3tr-c filter configuration
 - switch to vescpkg
 - Temperature Tiltback
 - Improve dual switch startup for spotty switches
+- lsm6ds3tr-c filter configuration
 - Time scaled PID maths
 - Mini QML utilities
 - Configuration wizard
