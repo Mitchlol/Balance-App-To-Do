@@ -93,9 +93,9 @@ Feel free to create an issue if you want me to add a feature to the list.
 - I Term Current Limit
 - Remove Unused D term filters
 - Text display of imu values in desktop tool
-- Accel low pass filter (Fixes nose hunting, but not for everyone? need more feedback)
 
 ## Merge request placed
+- Accel low pass filter, split per axis
 
 ## TODO For sure
 - switch to vescpkg
